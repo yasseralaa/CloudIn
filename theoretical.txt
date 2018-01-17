@@ -1,0 +1,26 @@
+1. Given a task in the project you’re working on, it’s your first time implementing a feature
+like this so you search the internet for a solution and you find two open source libraries
+which could help you implement this task. How would you choose which one to use?
+
+answer: i will choose the most suitable one which covers all needed features,
+        if both covers all needed features, I will prefer the easiest on setup and configuration,
+        if both are easy for me i will use the most popular one.
+
+
+2. If there’s one improvement you can add to your favorite programming language or framework, what would that be?
+
+answer: I do not have a specific favourite programming language and framework, but for the programming languages
+i have worked on i would make c++ more popular in usage and create more frameworks with it, i would make faster python
+and more frameworks for mobile development with python, i would make fully open source C#, i would make php more
+organized, scalable and works on another platforms than web, i would make spring-boot more popular and easy to learn
+and i would make javascript more easy, scalable and organized(typescript is such a good beginning).
+
+3. In a complex financial application, What would be the ideal way to minimize bugs
+introduced to the system by your own code?
+
+answer: I would use the most suitable design pattern, obligate to OOD principles and use automated testing.
+
+4. This is the most important question of all, starwars or star trek?
+
+answer: i didn't watched starwars yet :D , i have watched star trek and i love it.
+"Vulcan salute"
